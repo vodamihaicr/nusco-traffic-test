@@ -1,9 +1,8 @@
 {
-  "origin": {
-    "name": "Nusco City faza 2",
-    "lat": 44.48272958113819,
-    "lng": 26.1115894542782
-  },
+  "origins": [
+    {"name": "Nusco City faza 2", "lat": 44.48272958113819, "lng": 26.1115894542782},
+    {"name": "U Home", "lat": 44.412119031272155, "lng": 26.101203170229393}
+  ],
   "destinations": [
     {"name": "Piata Unirii", "query": "Piața Unirii, București, România"},
     {"name": "Piata Victoriei", "query": "Piața Victoriei, București, România"},

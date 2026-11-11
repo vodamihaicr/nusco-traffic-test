@@ -1,7 +1,7 @@
-# Test trafic Nusco City faza 2
+# Test trafic Nusco City faza 2 vs U Home
 
 Măsoară la fiecare 30 de minute, timp de 7 zile, timpul de condus în timp real (Google Maps + Waze)
-între Nusco City faza 2 și 8 destinații, în ambele sensuri. Rezultatele se adaugă în `data/measurements.csv`.
+din Nusco City faza 2 și U Home către 8 destinații, în ambele sensuri. Rezultatele se adaugă în `data/measurements.csv`.
 
 ## Setup (o singură dată)
 1. **Cheie Google Maps**: Google Cloud Console → proiect nou → activează *Routes API* și *Geocoding API*
