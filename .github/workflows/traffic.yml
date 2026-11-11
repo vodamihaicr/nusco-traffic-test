@@ -1,0 +1,36 @@
+name: traffic-test
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # la fiecare 30 de minute (UTC); scriptul se opreste singur dupa 7 zile
+  workflow_dispatch:           # buton "Run workflow" pentru pornire manuala
+
+permissions:
+  contents: write
+
+concurrency:
+  group: traffic-test
+  cancel-in-progress: false
+
+jobs:
+  measure:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Masoara timpii
+        env:
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+        run: python3 travel_test.py
+
+      - name: Salveaza datele in repository
+        run: |
+          git config user.name "traffic-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ state.json geocoded.json 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "masuratori $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase
+            git push
+          fi

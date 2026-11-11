@@ -1,0 +1,18 @@
+{
+  "origin": {
+    "name": "Nusco City faza 2",
+    "lat": 44.48272958113819,
+    "lng": 26.1115894542782
+  },
+  "destinations": [
+    {"name": "Piata Unirii", "query": "Piața Unirii, București, România"},
+    {"name": "Piata Victoriei", "query": "Piața Victoriei, București, România"},
+    {"name": "Piata Muncii", "query": "Piața Muncii, București, România"},
+    {"name": "Bd. Timisoara 58K", "query": "Bulevardul Timișoara 58K, București, România"},
+    {"name": "Piata Floreasca", "query": "Piața Floreasca, București, România"},
+    {"name": "Parcul Herastrau (intrarea Charles de Gaulle)", "query": "Parcul Regele Mihai I, intrarea Piața Charles de Gaulle, București, România"},
+    {"name": "Baneasa Shopping City", "query": "Băneasa Shopping City, Șoseaua București-Ploiești 42D, București, România"},
+    {"name": "Promenada Mall", "query": "Promenada Mall, Calea Floreasca 246B, București, România"}
+  ],
+  "test_days": 7
+}
