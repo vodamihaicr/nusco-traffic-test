@@ -1,0 +1,42 @@
+{
+  "Piața Unirii, București, România": {
+    "lat": 44.42713,
+    "lng": 26.1024375,
+    "resolved": "Piața Unirii, București, Romania"
+  },
+  "Piața Victoriei, București, România": {
+    "lat": 44.4526948,
+    "lng": 26.0853325,
+    "resolved": "Piața Victoriei, București, Romania"
+  },
+  "Piața Muncii, București, România": {
+    "lat": 44.43248699999999,
+    "lng": 26.1384336,
+    "resolved": "Piața Muncii, București, Romania"
+  },
+  "Bulevardul Timișoara 58K, București, România": {
+    "lat": 44.4271215,
+    "lng": 26.017363,
+    "resolved": "Bulevardul Timișoara 58K, 061333 București, Romania"
+  },
+  "Piața Floreasca, București, România": {
+    "lat": 44.4605768,
+    "lng": 26.1003345,
+    "resolved": "Strada Banul Antonache 41, 011663 București, Romania"
+  },
+  "Parcul Regele Mihai I, intrarea Piața Charles de Gaulle, București, România": {
+    "lat": 44.4658018,
+    "lng": 26.0864266,
+    "resolved": "Piața Charles de Gaulle, București, Romania"
+  },
+  "Băneasa Shopping City, Șoseaua București-Ploiești 42D, București, România": {
+    "lat": 44.50799629999999,
+    "lng": 26.0899078,
+    "resolved": "Șoseaua București-Ploiești 42D, 015011 București, Romania"
+  },
+  "Promenada Mall, Calea Floreasca 246B, București, România": {
+    "lat": 44.47821099999999,
+    "lng": 26.1035397,
+    "resolved": "Calea Floreasca 246B, 014476 București, Romania"
+  }
+}
