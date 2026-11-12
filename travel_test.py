@@ -209,6 +209,15 @@ def main():
 
     local = now.astimezone(TZ)
     slot = f"{local.hour:02d}:{'00' if local.minute < 30 else '30'}"
+    # Protectie la dubluri: daca intervalul de 30 min curent are deja o masuratoare
+    # (de la cron-job.org sau de la programarea GitHub), nu mai scriem nimic.
+    if CSV_PATH.exists():
+        with CSV_PATH.open(encoding="utf-8") as f:
+            deja = any(r["local_time"][:10] == local.strftime("%Y-%m-%d") and r["hour_slot"] == slot
+                       for r in csv.DictReader(f))
+        if deja:
+            print(f"Intervalul {local:%Y-%m-%d} {slot} are deja masuratori. Nu scriu nimic.")
+            return
     weekday = ["Luni", "Marti", "Miercuri", "Joi", "Vineri", "Sambata", "Duminica"][local.weekday()]
 
     waze = Waze()
