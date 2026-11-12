@@ -1,6 +1,6 @@
 # Test trafic Nusco City faza 2 vs U Home
 
-Măsoară la fiecare 30 de minute, timp de 7 zile, timpul de condus în timp real (Google Maps)
+Măsoară la fiecare 30 de minute, timp de 8 zile, timpul de condus în timp real (Google Maps)
 din Nusco City faza 2 și U Home către 8 destinații, în ambele sensuri. Rezultatele se adaugă în `data/measurements.csv`.
 
 ## Setup (o singură dată)
@@ -9,7 +9,7 @@ din Nusco City faza 2 și U Home către 8 destinații, în ambele sensuri. Rezul
 2. **Secret în GitHub**: repository → Settings → Secrets and variables → Actions → New repository secret,
    nume `GOOGLE_MAPS_API_KEY`, valoarea = cheia.
 3. **Pornire**: tab-ul Actions → *traffic-test* → *Run workflow*. Apoi rulează singur la fiecare 30 de minute
-   și se oprește după 7 zile de la prima rulare.
+   și se oprește după 8 zile de la prima rulare.
 
 ## Coloane CSV
 `local_time` (ora României), `weekday`, `hour_slot`, `route`, `direction`, `google_min` (cu trafic),
