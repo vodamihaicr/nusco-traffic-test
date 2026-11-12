@@ -1,113 +1,113 @@
-timestamp_utc,local_time,weekday,hour_slot,origin,route,direction,google_min,google_no_traffic_min,google_km,waze_min,waze_no_traffic_min,waze_km,errors
-2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Piata Unirii,dus,19.3,22.6,8.56,,,,waze: HTTPError: HTTP Error 410: Gone
-2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Piata Unirii,intors,15.9,21.3,8.75,,,,waze: HTTPError: HTTP Error 410: Gone
-2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Piata Victoriei,dus,9.5,11.3,4.99,,,,waze: HTTPError: HTTP Error 410: Gone
-2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Piata Victoriei,intors,10.2,12.7,5.25,,,,waze: HTTPError: HTTP Error 410: Gone
-2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Piata Muncii,dus,18.8,24.2,10.26,,,,waze: HTTPError: HTTP Error 410: Gone
-2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Piata Muncii,intors,16.7,17.1,8.39,,,,waze: HTTPError: HTTP Error 410: Gone
-2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Bd. Timisoara 58K,dus,20.9,25.9,11.74,,,,waze: HTTPError: HTTP Error 410: Gone
-2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Bd. Timisoara 58K,intors,21.8,27.3,11.67,,,,waze: HTTPError: HTTP Error 410: Gone
-2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Piata Floreasca,dus,10.1,12.1,3.7,,,,waze: HTTPError: HTTP Error 410: Gone
-2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Piata Floreasca,intors,8.9,10.3,3.54,,,,waze: HTTPError: HTTP Error 410: Gone
-2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Parcul Herastrau (intrarea Charles de Gaulle),dus,6.8,8.2,3.52,,,,waze: HTTPError: HTTP Error 410: Gone
-2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Parcul Herastrau (intrarea Charles de Gaulle),intors,5.5,6.5,3.42,,,,waze: HTTPError: HTTP Error 410: Gone
-2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Baneasa Shopping City,dus,12.7,15.3,6.85,,,,waze: HTTPError: HTTP Error 410: Gone
-2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Baneasa Shopping City,intors,12.8,15.1,6.82,,,,waze: HTTPError: HTTP Error 410: Gone
-2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Promenada Mall,dus,4.6,5.2,1.31,,,,waze: HTTPError: HTTP Error 410: Gone
-2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Promenada Mall,intors,5.2,5.5,1.46,,,,waze: HTTPError: HTTP Error 410: Gone
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Piata Unirii,dus,20.1,21.2,9.0,,,,waze: RuntimeError: live-map: HTTPError HTTP Error 403: Forbidden | routing-livemap-row: HTTPError HTTP Error 403: Forbidden | RoutingManager: HTTPError HTTP Error 410: Gone | row-RoutingManager: HTTPError HTTP Error 410: Gone
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Piata Unirii,intors,15.7,17.0,8.75,,,,waze: RuntimeError: live-map: HTTPError HTTP Error 403: Forbidden | routing-livemap-row: HTTPError HTTP Error 403: Forbidden | RoutingManager: HTTPError HTTP Error 410: Gone | row-RoutingManager: HTTPError HTTP Error 410: Gone
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Piata Victoriei,dus,9.4,11.3,4.99,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Piata Victoriei,intors,9.9,12.7,5.25,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Piata Muncii,dus,18.8,19.7,10.26,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Piata Muncii,intors,16.6,17.1,8.39,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Bd. Timisoara 58K,dus,20.7,25.9,11.74,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Bd. Timisoara 58K,intors,21.6,27.3,11.67,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Piata Floreasca,dus,9.8,12.1,3.7,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Piata Floreasca,intors,8.8,9.3,3.54,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Parcul Herastrau (intrarea Charles de Gaulle),dus,6.6,8.2,3.52,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Parcul Herastrau (intrarea Charles de Gaulle),intors,5.3,5.4,3.42,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Baneasa Shopping City,dus,12.3,12.9,6.24,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Baneasa Shopping City,intors,12.5,12.8,6.82,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Promenada Mall,dus,4.4,5.6,1.31,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Promenada Mall,intors,5.2,6.0,1.46,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Piata Unirii,dus,9.5,12.0,3.54,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Piata Unirii,intors,4.0,4.2,2.17,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Piata Victoriei,dus,15.4,15.7,6.75,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Piata Victoriei,intors,15.0,19.3,6.19,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Piata Muncii,dus,14.1,14.7,6.56,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Piata Muncii,intors,12.7,16.1,5.51,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Bd. Timisoara 58K,dus,18.6,22.9,9.0,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Bd. Timisoara 58K,intors,19.7,20.4,9.96,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Piata Floreasca,dus,16.4,17.4,7.28,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Piata Floreasca,intors,19.2,20.9,8.15,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Parcul Herastrau (intrarea Charles de Gaulle),dus,15.9,20.0,8.02,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Parcul Herastrau (intrarea Charles de Gaulle),intors,18.4,23.4,7.91,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Baneasa Shopping City,dus,25.1,31.3,14.47,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Baneasa Shopping City,intors,26.8,34.6,13.3,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Promenada Mall,dus,20.8,25.9,10.54,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Promenada Mall,intors,23.9,28.9,9.13,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Piata Unirii,dus,17.8,22.6,8.56,,,,waze: RuntimeError: live-map: HTTPError HTTP Error 403: Forbidden | routing-livemap-row: HTTPError HTTP Error 403: Forbidden | RoutingManager: HTTPError HTTP Error 410: Gone | row-RoutingManager: HTTPError HTTP Error 410: Gone
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Piata Unirii,intors,13.4,14.8,8.75,,,,waze: RuntimeError: live-map: HTTPError HTTP Error 403: Forbidden | routing-livemap-row: HTTPError HTTP Error 403: Forbidden | RoutingManager: HTTPError HTTP Error 410: Gone | row-RoutingManager: HTTPError HTTP Error 410: Gone
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Piata Victoriei,dus,9.4,9.8,4.99,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Piata Victoriei,intors,9.2,12.7,5.25,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Piata Muncii,dus,18.3,19.5,9.07,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Piata Muncii,intors,15.2,21.1,8.39,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Bd. Timisoara 58K,dus,19.6,20.4,11.74,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Bd. Timisoara 58K,intors,18.4,27.3,11.67,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Piata Floreasca,dus,10.0,10.5,3.7,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Piata Floreasca,intors,8.3,8.6,3.54,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Parcul Herastrau (intrarea Charles de Gaulle),dus,6.7,8.2,3.52,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Parcul Herastrau (intrarea Charles de Gaulle),intors,5.0,6.5,3.42,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Baneasa Shopping City,dus,11.8,15.5,6.25,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Baneasa Shopping City,intors,12.3,15.1,6.82,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Promenada Mall,dus,4.4,5.6,1.31,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Promenada Mall,intors,4.9,6.0,1.46,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Piata Unirii,dus,8.2,12.8,3.54,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Piata Unirii,intors,3.5,5.6,2.02,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Piata Victoriei,dus,13.2,14.0,7.17,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Piata Victoriei,intors,13.2,14.5,6.04,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Piata Muncii,dus,12.3,13.0,6.58,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Piata Muncii,intors,11.7,12.5,5.51,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Bd. Timisoara 58K,dus,18.7,19.6,9.0,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Bd. Timisoara 58K,intors,17.3,24.9,9.96,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Piata Floreasca,dus,13.7,14.9,7.53,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Piata Floreasca,intors,15.1,17.2,6.68,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Parcul Herastrau (intrarea Charles de Gaulle),dus,12.9,13.5,8.02,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Parcul Herastrau (intrarea Charles de Gaulle),intors,14.3,16.4,6.98,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Baneasa Shopping City,dus,21.8,31.3,14.47,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Baneasa Shopping City,intors,23.4,32.8,13.28,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Promenada Mall,dus,17.4,18.2,10.54,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Promenada Mall,intors,20.6,22.6,8.88,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Piata Unirii,dus,40.6,23.3,8.61,,,,waze: RuntimeError: live-map: HTTPError HTTP Error 403: Forbidden | routing-livemap-row: HTTPError HTTP Error 403: Forbidden | RoutingManager: HTTPError HTTP Error 410: Gone | row-RoutingManager: HTTPError HTTP Error 410: Gone
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Piata Unirii,intors,39.9,21.3,8.75,,,,waze: RuntimeError: live-map: HTTPError HTTP Error 403: Forbidden | routing-livemap-row: HTTPError HTTP Error 403: Forbidden | RoutingManager: HTTPError HTTP Error 410: Gone | row-RoutingManager: HTTPError HTTP Error 410: Gone
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Piata Victoriei,dus,29.8,11.9,5.03,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Piata Victoriei,intors,24.7,12.7,5.25,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Piata Muncii,dus,40.4,25.5,12.09,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Piata Muncii,intors,45.2,26.1,8.95,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Bd. Timisoara 58K,dus,44.2,26.6,11.79,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Bd. Timisoara 58K,intors,54.7,54.7,12.45,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Piata Floreasca,dus,28.4,14.7,5.22,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Piata Floreasca,intors,18.6,10.9,3.94,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Parcul Herastrau (intrarea Charles de Gaulle),dus,26.1,8.9,3.57,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Parcul Herastrau (intrarea Charles de Gaulle),intors,14.8,6.5,3.42,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Baneasa Shopping City,dus,21.9,18.4,9.9,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Baneasa Shopping City,intors,30.0,30.6,6.82,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Promenada Mall,dus,22.5,6.3,1.36,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Promenada Mall,intors,8.6,7.3,2.18,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Piata Unirii,dus,18.6,18.2,4.74,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Piata Unirii,intors,6.0,6.1,2.02,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Piata Victoriei,dus,34.5,22.4,7.39,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Piata Victoriei,intors,17.5,17.7,5.4,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Piata Muncii,dus,24.1,25.1,5.8,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Piata Muncii,intors,22.8,16.9,5.9,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Bd. Timisoara 58K,dus,28.3,29.4,9.54,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Bd. Timisoara 58K,intors,32.6,34.0,10.11,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Piata Floreasca,dus,39.7,41.5,8.41,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Piata Floreasca,intors,23.8,19.5,7.01,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Parcul Herastrau (intrarea Charles de Gaulle),dus,39.9,25.6,8.51,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Parcul Herastrau (intrarea Charles de Gaulle),intors,19.5,16.8,6.93,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Baneasa Shopping City,dus,55.3,36.9,14.96,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Baneasa Shopping City,intors,42.0,28.4,12.89,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Promenada Mall,dus,47.2,48.9,11.28,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
-2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Promenada Mall,intors,31.6,26.6,10.49,,,,waze: RuntimeError: sarit: niciun endpoint Waze nu a raspuns in aceasta rulare
+timestamp_utc,local_time,weekday,hour_slot,origin,route,direction,google_min,google_no_traffic_min,google_km,errors
+2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Piata Unirii,dus,19.3,22.6,8.56,
+2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Piata Unirii,intors,15.9,21.3,8.75,
+2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Piata Victoriei,dus,9.5,11.3,4.99,
+2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Piata Victoriei,intors,10.2,12.7,5.25,
+2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Piata Muncii,dus,18.8,24.2,10.26,
+2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Piata Muncii,intors,16.7,17.1,8.39,
+2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Bd. Timisoara 58K,dus,20.9,25.9,11.74,
+2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Bd. Timisoara 58K,intors,21.8,27.3,11.67,
+2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Piata Floreasca,dus,10.1,12.1,3.7,
+2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Piata Floreasca,intors,8.9,10.3,3.54,
+2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Parcul Herastrau (intrarea Charles de Gaulle),dus,6.8,8.2,3.52,
+2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Parcul Herastrau (intrarea Charles de Gaulle),intors,5.5,6.5,3.42,
+2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Baneasa Shopping City,dus,12.7,15.3,6.85,
+2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Baneasa Shopping City,intors,12.8,15.1,6.82,
+2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Promenada Mall,dus,4.6,5.2,1.31,
+2026-11-11T21:07:00Z,2026-11-11 23:07,Miercuri,23:00,Nusco City faza 2,Promenada Mall,intors,5.2,5.5,1.46,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Piata Unirii,dus,20.1,21.2,9.0,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Piata Unirii,intors,15.7,17.0,8.75,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Piata Victoriei,dus,9.4,11.3,4.99,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Piata Victoriei,intors,9.9,12.7,5.25,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Piata Muncii,dus,18.8,19.7,10.26,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Piata Muncii,intors,16.6,17.1,8.39,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Bd. Timisoara 58K,dus,20.7,25.9,11.74,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Bd. Timisoara 58K,intors,21.6,27.3,11.67,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Piata Floreasca,dus,9.8,12.1,3.7,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Piata Floreasca,intors,8.8,9.3,3.54,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Parcul Herastrau (intrarea Charles de Gaulle),dus,6.6,8.2,3.52,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Parcul Herastrau (intrarea Charles de Gaulle),intors,5.3,5.4,3.42,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Baneasa Shopping City,dus,12.3,12.9,6.24,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Baneasa Shopping City,intors,12.5,12.8,6.82,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Promenada Mall,dus,4.4,5.6,1.31,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,Nusco City faza 2,Promenada Mall,intors,5.2,6.0,1.46,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Piata Unirii,dus,9.5,12.0,3.54,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Piata Unirii,intors,4.0,4.2,2.17,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Piata Victoriei,dus,15.4,15.7,6.75,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Piata Victoriei,intors,15.0,19.3,6.19,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Piata Muncii,dus,14.1,14.7,6.56,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Piata Muncii,intors,12.7,16.1,5.51,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Bd. Timisoara 58K,dus,18.6,22.9,9.0,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Bd. Timisoara 58K,intors,19.7,20.4,9.96,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Piata Floreasca,dus,16.4,17.4,7.28,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Piata Floreasca,intors,19.2,20.9,8.15,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Parcul Herastrau (intrarea Charles de Gaulle),dus,15.9,20.0,8.02,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Parcul Herastrau (intrarea Charles de Gaulle),intors,18.4,23.4,7.91,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Baneasa Shopping City,dus,25.1,31.3,14.47,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Baneasa Shopping City,intors,26.8,34.6,13.3,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Promenada Mall,dus,20.8,25.9,10.54,
+2026-11-11T21:17:50Z,2026-11-11 23:17,Miercuri,23:00,U Home,Promenada Mall,intors,23.9,28.9,9.13,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Piata Unirii,dus,17.8,22.6,8.56,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Piata Unirii,intors,13.4,14.8,8.75,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Piata Victoriei,dus,9.4,9.8,4.99,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Piata Victoriei,intors,9.2,12.7,5.25,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Piata Muncii,dus,18.3,19.5,9.07,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Piata Muncii,intors,15.2,21.1,8.39,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Bd. Timisoara 58K,dus,19.6,20.4,11.74,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Bd. Timisoara 58K,intors,18.4,27.3,11.67,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Piata Floreasca,dus,10.0,10.5,3.7,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Piata Floreasca,intors,8.3,8.6,3.54,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Parcul Herastrau (intrarea Charles de Gaulle),dus,6.7,8.2,3.52,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Parcul Herastrau (intrarea Charles de Gaulle),intors,5.0,6.5,3.42,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Baneasa Shopping City,dus,11.8,15.5,6.25,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Baneasa Shopping City,intors,12.3,15.1,6.82,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Promenada Mall,dus,4.4,5.6,1.31,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,Nusco City faza 2,Promenada Mall,intors,4.9,6.0,1.46,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Piata Unirii,dus,8.2,12.8,3.54,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Piata Unirii,intors,3.5,5.6,2.02,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Piata Victoriei,dus,13.2,14.0,7.17,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Piata Victoriei,intors,13.2,14.5,6.04,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Piata Muncii,dus,12.3,13.0,6.58,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Piata Muncii,intors,11.7,12.5,5.51,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Bd. Timisoara 58K,dus,18.7,19.6,9.0,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Bd. Timisoara 58K,intors,17.3,24.9,9.96,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Piata Floreasca,dus,13.7,14.9,7.53,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Piata Floreasca,intors,15.1,17.2,6.68,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Parcul Herastrau (intrarea Charles de Gaulle),dus,12.9,13.5,8.02,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Parcul Herastrau (intrarea Charles de Gaulle),intors,14.3,16.4,6.98,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Baneasa Shopping City,dus,21.8,31.3,14.47,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Baneasa Shopping City,intors,23.4,32.8,13.28,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Promenada Mall,dus,17.4,18.2,10.54,
+2026-11-12T02:08:52Z,2026-11-12 04:08,Joi,04:00,U Home,Promenada Mall,intors,20.6,22.6,8.88,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Piata Unirii,dus,40.6,23.3,8.61,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Piata Unirii,intors,39.9,21.3,8.75,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Piata Victoriei,dus,29.8,11.9,5.03,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Piata Victoriei,intors,24.7,12.7,5.25,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Piata Muncii,dus,40.4,25.5,12.09,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Piata Muncii,intors,45.2,26.1,8.95,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Bd. Timisoara 58K,dus,44.2,26.6,11.79,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Bd. Timisoara 58K,intors,54.7,54.7,12.45,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Piata Floreasca,dus,28.4,14.7,5.22,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Piata Floreasca,intors,18.6,10.9,3.94,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Parcul Herastrau (intrarea Charles de Gaulle),dus,26.1,8.9,3.57,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Parcul Herastrau (intrarea Charles de Gaulle),intors,14.8,6.5,3.42,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Baneasa Shopping City,dus,21.9,18.4,9.9,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Baneasa Shopping City,intors,30.0,30.6,6.82,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Promenada Mall,dus,22.5,6.3,1.36,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,Nusco City faza 2,Promenada Mall,intors,8.6,7.3,2.18,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Piata Unirii,dus,18.6,18.2,4.74,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Piata Unirii,intors,6.0,6.1,2.02,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Piata Victoriei,dus,34.5,22.4,7.39,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Piata Victoriei,intors,17.5,17.7,5.4,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Piata Muncii,dus,24.1,25.1,5.8,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Piata Muncii,intors,22.8,16.9,5.9,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Bd. Timisoara 58K,dus,28.3,29.4,9.54,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Bd. Timisoara 58K,intors,32.6,34.0,10.11,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Piata Floreasca,dus,39.7,41.5,8.41,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Piata Floreasca,intors,23.8,19.5,7.01,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Parcul Herastrau (intrarea Charles de Gaulle),dus,39.9,25.6,8.51,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Parcul Herastrau (intrarea Charles de Gaulle),intors,19.5,16.8,6.93,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Baneasa Shopping City,dus,55.3,36.9,14.96,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Baneasa Shopping City,intors,42.0,28.4,12.89,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Promenada Mall,dus,47.2,48.9,11.28,
+2026-11-12T06:44:57Z,2026-11-12 08:44,Joi,08:30,U Home,Promenada Mall,intors,31.6,26.6,10.49,

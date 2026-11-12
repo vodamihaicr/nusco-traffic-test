@@ -1,6 +1,6 @@
 # Test trafic Nusco City faza 2 vs U Home
 
-Măsoară la fiecare 30 de minute, timp de 7 zile, timpul de condus în timp real (Google Maps + Waze)
+Măsoară la fiecare 30 de minute, timp de 7 zile, timpul de condus în timp real (Google Maps)
 din Nusco City faza 2 și U Home către 8 destinații, în ambele sensuri. Rezultatele se adaugă în `data/measurements.csv`.
 
 ## Setup (o singură dată)
@@ -13,8 +13,7 @@ din Nusco City faza 2 și U Home către 8 destinații, în ambele sensuri. Rezul
 
 ## Coloane CSV
 `local_time` (ora României), `weekday`, `hour_slot`, `route`, `direction`, `google_min` (cu trafic),
-`google_no_traffic_min`, `google_km`, `waze_min` (cu trafic), `waze_no_traffic_min`, `waze_km`, `errors`.
+`google_no_traffic_min`, `google_km`, `errors`.
 
 ## Observații
 - GitHub poate întârzia rulările programate cu câteva minute la ore aglomerate; ora reală e salvată în fiecare rând.
-- Waze nu are API oficial; dacă blochează serverele GitHub, coloana `errors` va arăta asta.
